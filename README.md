@@ -7,6 +7,5 @@ My name is Pedro, I'm from Brazil, and here you can find all my programming proj
 ## I'm currently working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedromxavier&theme=radical&repo=ECI-UFRJ)](https://github.com/pedromxavier/ECI-UFRJ)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedromxavier&theme=radical&repo=pine-md)](https://github.com/pedromxavier/pine-md)
-<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedromxavier&theme=radical&repo=pyckage)](https://github.com/pedromxavier/pyckage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedromxavier&theme=radical&repo=minerva)](https://github.com/pedromxavier/minerva)
