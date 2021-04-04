@@ -1,1 +1,2 @@
-### My name is Pedro, I guess.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromxavier&show_icons=true&theme=radical)
