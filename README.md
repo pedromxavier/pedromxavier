@@ -7,9 +7,12 @@
 </p>
 
 <p align="left"> 
-  My name is Pedro, I'm from Brazil, and here you can find all my programming projects! (except for some <i>TOP-SECRET</i>, <i>kinda-dangerous</i>, <i>classified stuff</i> I ought to keep private). Currently, I'm a Computer and Information Engineering student at <strong>UFRJ</strong> where I also pursue a Pure Mathematics degree as a double major.
+  My name is Pedro, I'm from Brazil, and here you can find all my programming projects! (except for some <i>TOP-SECRET</i>, <i>kinda-dangerous</i>, <i>classified stuff</i> I ought to keep private). Currently, I'm a <strong>Computer and Information Engineering</strong> student at <strong>UFRJ</strong> where I also pursue a <strong>Pure Mathematics</strong> degree as a double major.
 <p>
 
+<p align="left">
+  As you might wonder, I'm intersted in many research topics concerning Maths and it's applications, even those which apply to pure theoretical fields. Specially passionate for those whose behavior calls for some computer implementation.
+<p>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromxavier&show_icons=true&theme=radical&langs_count=9&hide=jupyter%20notebook&layout=compact)](https://github.com/pedromxavier)<br/>
 <br><br>
