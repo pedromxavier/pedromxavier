@@ -7,7 +7,7 @@
 </p>
 
 <p align="left"> 
-  My name is Pedro, I'm from Brasil, and here you can find all my programming projects! (except for some <i>TOP-SECRET</i>, <i>kinda-dangerous</i>, <i>classified stuff</i> I ought to keep private). Currently, I'm a <strong>Computer and Information Engineering</strong> student at <strong>UFRJ</strong> where I also pursue a <strong>Pure Mathematics</strong> degree as a double major.
+  My name is Pedro, I'm from Brasil, and here you can find all my programming projects! (except for some <i>TOP-SECRET</i>, <i>kinda-dangerous</i>, <i>classified stuff</i> I ought to keep private). Currently, I'm a <strong>Computer and Information Engineering</strong> student at <strong>UFRJ</strong> where I also pursue a <strong>Pure Mathematics</strong> degree as double major.
 <p>
 
 <p align="left">
