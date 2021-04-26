@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/pedromxavier/svg-motion/main/examples/vectors.svg" min-width="400px" max-width="500px" width="350px" top= "0 px" align="right" />
+<img src="./vectors.svg" min-width="400px" max-width="500px" width="350px" top= "0 px" align="right" />
 
 <br>
 
