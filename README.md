@@ -35,7 +35,7 @@
 <p>
   
 <p>
-  Apart from that, I've been into other adventures such as <strong>Public Health Care</strong> management systems at <strong>FIOCRUZ</strong> <!-- <img src="./static/sus.svg" align="bottom"/> --> and <strong>Generative Design</strong> in architecture at <strong>FAU-UFRJ</strong>.
+  Apart from that, I've been into other adventures such as <strong>Public Health Care</strong> management systems at <strong>FIOCRUZ</strong> and <strong>Generative Design</strong> in architecture at <strong>FAU-UFRJ</strong>.
 </p>
 </div>
 
