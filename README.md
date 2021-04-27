@@ -1,4 +1,3 @@
-
 <img src="./static/vectors.svg" min-width="400px" max-width="500px" width="450px" top= "0 px" align="right"/>
 
 <br>
@@ -12,11 +11,11 @@
 <p>
 
 <p>
-  Como você pode imaginar, tenho interesse em diversos tópicos de pesquisa relacionados a Matemática e suas aplicações, até mesmo naqueles que se aplicam a temas puramente teóricos. Problemas e soluções cujo comportamento demanda alguma implementação malandra tem um lugar especial no meu cotidiano. Eu tenho dedicado a maior parte do meu tempo de Universidade estudando Lógica, Compiladores, Otimização e Inteligência Artificial.
+  Como você pode imaginar, tenho interesse em diversos tópicos de pesquisa relacionados a Matemática e suas aplicações, até mesmo naqueles que se aplicam a temas puramente teóricos. Problemas e soluções cujo comportamento demanda alguma implementação malandra tem um lugar especial no meu cotidiano. Eu tenho dedicado a maior parte do meu tempo de Universidade estudando <strong>Lógica</strong>, <strong>Compiladores</strong>, <strong>Otimização</strong> e <strong>Inteligência Artificial</strong>.
 <p>
   
 <p>
-  Além disso, já estive em outras aventuras como quando desenvolvi sistemas para pesquisa em saúde pública na <strong>FIOCRUZ</strong> <img src="./static/sus.svg"/> ou também trabalhando com Design Generativo na <strong>FAU-UFRJ</strong>.
+  Além disso, já estive em outras aventuras como quando desenvolvi sistemas para pesquisa em <Strong>Saúde Pública</strong> na <strong>FIOCRUZ</strong>  ou também trabalhando com <strong>Design Generativo</strong> na <strong>FAU-UFRJ</strong>.
 </p>
 </div>
 
@@ -32,11 +31,11 @@
 <p>
 
 <p>
-  As you might wonder, I'm intersted in many research topics concerning Maths and it's applications, even those which apply to pure theoretical fields. Specially passionate for problems and solutions whose behavior calls for some intricate computer implementation. I've been spending most of my time in the University studying Logic, Compilers, Optimization and Artificial Intelligence.
+  As you might wonder, I'm intersted in many research topics concerning Maths and it's applications, even those which apply to pure theoretical fields. Specially passionate for problems and solutions whose behavior calls for some intricate computer implementation. I've been spending most of my time in the University studying <strong>Logic</strong>, <strong>Compilers</strong>, <strong>Optimization</strong> and <strong>Artificial Intelligence</strong>.
 <p>
   
 <p>
-  Apart from that, I've been into other adventures such as public health care management systems at <strong>FIOCRUZ</strong> <img src="./static/sus.svg" align="bottom"/> and generative/parametric design in architecture at <strong>FAU-UFRJ</strong>.
+  Apart from that, I've been into other adventures such as <strong>Public Health Care</strong> management systems at <strong>FIOCRUZ</strong> <!-- <img src="./static/sus.svg" align="bottom"/> --> and <strong>Generative Design</strong> in architecture at <strong>FAU-UFRJ</strong>.
 </p>
 </div>
 
