@@ -1,6 +1,5 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500.0" height="500.0" viewBox="0 0 500.0 500.0" >
     <style type="text/css">
-        <![CDATA[
         @-webkit-keyframes frameTransform {
             100% {
             -webkit-transform: translateX(-50000px);
@@ -14,10 +13,10 @@
             }
         }
         .frames {
+            color: currentColor;
             -webkit-animation: frameTransform 5000ms steps(100) infinite;
                     animation: frameTransform 5000ms steps(100) infinite;
         }
-        ]]>
     </style>
     <defs>
         <marker id="arrowhead" markerWidth="8" markerHeight="6" 
