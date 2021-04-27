@@ -1,3 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="1em">
-  <text x="0" y="0.9em" fill="blue" font-family=" Helvetica, Arial, sans-serif">Viva o SUS!</text>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="1em" width="7em">
+  <style>
+    .sus {
+      color: #005bab;
+      font-family: sans-serif;
+      font-style: italic;
+      font-weight: bold;
+    }
+  </style>
+  <text x="0" y="0.9em" class="sus">Viva o SUS!</text>
 </svg>
