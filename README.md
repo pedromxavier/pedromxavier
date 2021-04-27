@@ -16,7 +16,7 @@
 <p>
   
 <p>
-  Além disso, já estive em outras aventuras como quando desenvolvi sistemas para pesquisa em saúde pública na <strong>FIOCRUZ</strong> (<img src="./static/sus.svg" height="1em" />) ou também trabalhando com Design Generativo na <strong>FAU-UFRJ</strong>.
+  Além disso, já estive em outras aventuras como quando desenvolvi sistemas para pesquisa em saúde pública na <strong>FIOCRUZ</strong> <img src="./static/sus.svg"/> ou também trabalhando com Design Generativo na <strong>FAU-UFRJ</strong>.
 </p>
 </div>
 
@@ -36,7 +36,7 @@
 <p>
   
 <p>
-  Apart from that, I've been into other adventures such as public health care management systems at <strong>FIOCRUZ</strong> (<img src="./static/sus.svg" height="1em" />) and generative/parametric design in architecture at <strong>FAU-UFRJ</strong>.
+  Apart from that, I've been into other adventures such as public health care management systems at <strong>FIOCRUZ</strong> <img src="./static/sus.svg" align="bottom"/> and generative/parametric design in architecture at <strong>FAU-UFRJ</strong>.
 </p>
 </div>
 
