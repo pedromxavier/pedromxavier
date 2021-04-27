@@ -1,4 +1,4 @@
-<img src="./vectors.svg" min-width="400px" max-width="500px" width="450px" top= "0 px" align="right"/>
+<img src="./static/vectors.svg" min-width="400px" max-width="500px" width="450px" top= "0 px" align="right"/>
 
 <br>
 
