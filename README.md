@@ -16,7 +16,7 @@
 <p>
   
 <p>
-  Além disso, já estive em outras aventuras como quando desenvolvi sistemas para pesquisa em saúde pública na <strong>FIOCRUZ</strong> (<img src="./static/sus.svg" height="1em" />) ou também trabalhando com <i>design</i> generativo na <strong>FAU-UFRJ</strong>.
+  Além disso, já estive em outras aventuras como quando desenvolvi sistemas para pesquisa em saúde pública na <strong>FIOCRUZ</strong> (<img src="./static/sus.svg" height="1em" />) ou também trabalhando com Design Generativo na <strong>FAU-UFRJ</strong>.
 </p>
 </div>
 
