@@ -19,7 +19,7 @@
 </p>
 </div>
 
-<img src="./static/vectors.svg" min-width="400px" max-width="500px" width="450px" top= "0 px" align="left"/>
+<img src="./static/surface.svg" min-width="400px" max-width="500px" width="450px" top= "0 px" align="left"/>
 
 <div align="left">
 <h2>
