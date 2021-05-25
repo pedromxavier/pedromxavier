@@ -38,14 +38,3 @@
   Apart from that, I've been into other adventures such as <strong>Public Health Care</strong> management systems at <strong>FIOCRUZ</strong> <img src="./static/sus.svg" align="bottom"/> and <strong>Generative Design</strong> in architecture at <strong>FAU-UFRJ</strong>.
 </p>
 </div>
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromxavier&show_icons=true&theme=radical&langs_count=9&hide=jupyter%20notebook&layout=compact)](https://github.com/pedromxavier)<br/>
-<br><br>
-## I'm currently working on:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedromxavier&theme=radical&repo=ECI-UFRJ)](https://github.com/pedromxavier/ECI-UFRJ)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedromxavier&theme=radical&repo=pine-md)](https://github.com/pedromxavier/pine-md)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedromxavier&theme=radical&repo=pyckage)](https://github.com/pedromxavier/pyckage)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedromxavier&theme=radical&repo=minerva)](https://github.com/pedromxavier/minerva)<br>
-and many more...
--->
