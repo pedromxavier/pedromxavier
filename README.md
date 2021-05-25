@@ -1,4 +1,4 @@
-<img src="./static/vectors.svg" min-width="400px" max-width="500px" width="450px" top= "0 px" align="right"/>
+
 
 <br>
 <div>
@@ -18,8 +18,6 @@
   Além disso, já estive em outras aventuras como quando desenvolvi sistemas para pesquisa em <Strong>Saúde Pública</strong> na <strong>FIOCRUZ</strong> <img src="./static/sus.svg" align="bottom"/>  ou também trabalhando com <strong>Design Generativo</strong> na <strong>FAU-UFRJ</strong>.
 </p>
 </div>
-
-<img src="./static/surface.svg" min-width="400px" max-width="500px" width="450px" top= "0 px" align="left"/>
 
 <div align="left">
 <h2>
