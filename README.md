@@ -1,5 +1,4 @@
-
-
+<img src="./static/vectors.svg" min-width="400px" max-width="500px" width="450px" top= "0 px" align="right"/>
 <br>
 <div>
 <h2> 
@@ -24,6 +23,7 @@
   Hello there 👽 <br>
 </h2>
 
+<img src="./static/surface.svg" min-width="400px" max-width="500px" width="450px" top= "0 px" align="left"/>
 <p> 
   My name is Pedro, I'm from Brasil, and here you can find all my programming projects! (except for some <i>TOP-SECRET</i>, <i>kinda-dangerous</i>, <i>classified stuff</i> I ought to keep private). Currently, I'm a <strong>Computer and Information Engineering</strong> student at <strong>UFRJ</strong> where I also pursue a <strong>Pure Mathematics</strong> degree as double major.
 <p>
