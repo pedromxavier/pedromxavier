@@ -16,6 +16,10 @@
 <p>
   Além disso, já estive em outras aventuras como quando desenvolvi sistemas para pesquisa em <Strong>Saúde Pública</strong> na <strong>FIOCRUZ</strong> <img src="./static/sus.svg" align="bottom"/>  ou também trabalhando com <strong>Design Generativo</strong> na <strong>FAU-UFRJ</strong>.
 </p>
+  
+<p>
+  Atualmente, fazendo coisas iradas na <a href="https://www.psr-inc.com/">PSR</a>.  
+</p>
 </div>
 
 <div align="left">
@@ -34,5 +38,9 @@
   
 <p>
   Apart from that, I've been into other adventures such as <strong>Public Health Care</strong> management systems at <strong>FIOCRUZ</strong> <img src="./static/sus.svg" align="bottom"/> and <strong>Generative Design</strong> in architecture at <strong>FAU-UFRJ</strong>.
+</p>
+  
+<p>
+  Currently building amazing stuff at <a href="https://www.psr-inc.com/">PSR</a>.
 </p>
 </div>
