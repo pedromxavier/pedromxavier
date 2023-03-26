@@ -6,7 +6,9 @@
 </h2>
 
 <p> 
-  Meu nome é Pedro, sou do Brasil, mais especificamente de Petrópolis-RJ, e aqui você encontra todos os meus projetos de programação (exceto por algumas paradas <i>confidencialmente perigosas</i> que eu preciso esconder). Atualmente sou estudante de <strong>Engenharia de Computação e Informação</strong> na <strong>UFRJ</strong> onde também curso <strong>Bacharelado em Matemática</strong> pelo programa de dupla-diplomação.
+  Meu nome é Pedro, sou do Brasil, mais especificamente de Petrópolis-RJ, e aqui você encontra todos os meus projetos de programação.
+  Concluí, na <strong>UFRJ</strong>, a graduação em <strong>Engenharia de Computação e Informação</strong> e também o <strong>Bacharelado em Matemática</strong>.
+  Atualmente, sou pesquisador e desenvolvedor na <strong><a href="https://www.psr-inc.com/">PSR</a></strong>, além de aluno de mestrado da linha de otimização do <strong>PESC/COPPE</strong>.
 <p>
 
 <p>
@@ -18,7 +20,7 @@
 </p>
   
 <p>
-  Atualmente, fazendo coisas iradas na <a href="https://www.psr-inc.com/">PSR</a>.  
+ 
 </p>
 </div>
 
@@ -29,7 +31,9 @@
 
 <img src="./static/surface-waves.svg" min-width="400px" max-width="500px" width="450px" top= "0 px" align="left"/>
 <p> 
-  My name is Pedro, I'm from Brasil, and here you can find all my programming projects! (except for some <i>TOP-SECRET</i>, <i>kinda-dangerous</i>, <i>classified stuff</i> I ought to keep private). Currently, I'm a <strong>Computer and Information Engineering</strong> student at <strong>UFRJ</strong> where I also pursue a <strong>Pure Mathematics</strong> degree as double major.
+  My name is Pedro, I'm from Brasil, and here you can find all my programming projects.
+  I completed my B.Sc. studies in <strong>Computer and Information Engineering</strong> and <strong>Pure Mathematics</strong> as a <strong>double-major</strong> at <strong>UFRJ</strong>.
+  Currently a researcher and developer at <strong><a href="https://www.psr-inc.com/">PSR Energy</a></strong> and also a master's studen at <strong>PESC/COPPE</strong>.
 <p>
 
 <p>
@@ -38,9 +42,5 @@
   
 <p>
   Apart from that, I've been into other adventures such as <strong>Public Health Care</strong> management systems at <strong>FIOCRUZ</strong> <img src="./static/sus.svg" align="bottom"/> and <strong>Generative Design</strong> in architecture at <strong>FAU-UFRJ</strong>.
-</p>
-  
-<p>
-  Currently building amazing stuff at <a href="https://www.psr-inc.com/">PSR</a>.
 </p>
 </div>
