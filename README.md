@@ -43,4 +43,11 @@
 <p>
   Apart from that, I've been into other adventures such as <strong>Public Health Care</strong> management systems at <strong>FIOCRUZ</strong> <img src="./static/sus.svg" align="bottom"/> and <strong>Generative Design</strong> in architecture at <strong>FAU-UFRJ</strong>.
 </p>
+  
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://projecteuler.net/profile/pedro.xavier.png" alt="Project Euler badge"> 
 </div>
