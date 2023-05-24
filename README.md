@@ -46,8 +46,6 @@
   
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://projecteuler.net/profile/pedro.xavier.png" alt="Project Euler badge"> 
 </div>
