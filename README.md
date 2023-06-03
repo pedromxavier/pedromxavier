@@ -19,9 +19,6 @@
   Além disso, já estive em outras aventuras como quando desenvolvi sistemas para pesquisa em <Strong>Saúde Pública</strong> na <strong>FIOCRUZ</strong> <img src="./static/sus.svg" align="bottom"/>  ou também trabalhando com <strong>Design Generativo</strong> na <strong>FAU-UFRJ</strong>.
 </p>
   
-<p>
- 
-</p>
 </div>
 
 <div align="left">
@@ -33,7 +30,7 @@
 <p> 
   My name is Pedro, I'm from Brasil, and here you can find all my programming projects.
   I completed my B.Sc. studies in <strong>Computer and Information Engineering</strong> and <strong>Pure Mathematics</strong> as a <strong>double-major</strong> at <strong>UFRJ</strong>.
-  Currently a researcher and developer at <strong><a href="https://www.psr-inc.com/">PSR Energy</a></strong> and also a master's studen at <strong>PESC/COPPE</strong>.
+  Currently a researcher and developer at <strong><a href="https://www.psr-inc.com/">PSR Energy</a></strong> and also a M.Sc. student at <strong>PESC/COPPE</strong> in optimization.
 <p>
 
 <p>
@@ -47,5 +44,7 @@
 </div>
 
 <div align="center">
-  <img src="https://projecteuler.net/profile/pedro.xavier.png" alt="Project Euler badge"> 
+  <a href="https://projecteuler.net/progress=pedro.xavier">
+    <img src="https://projecteuler.net/profile/pedro.xavier.png" alt="Project Euler progress badge"> 
+  </a>
 </div>
