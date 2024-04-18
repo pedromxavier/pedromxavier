@@ -12,9 +12,9 @@
 <img src="./static/vector-field.svg" min-width="350px" max-width="450px" width="400px" top= "0 px" align="right"/>
   
 <p> 
-  Meu nome é Pedro, sou do Brasil, mais especificamente de Petrópolis-RJ, e aqui você encontra todos os meus projetos de programação.
+  Meu nome é Pedro, sou do Brasil, mais especificamente de Nova Friburgo - RJ, e aqui você pode encontrar meus alguns dos meus projetos de código.
   Concluí, na <strong>UFRJ</strong>, a graduação em <strong>Engenharia de Computação e Informação</strong> e também o <strong>Bacharelado em Matemática</strong>.
-  Atualmente, sou pesquisador e desenvolvedor na <strong><a href="https://www.psr-inc.com/">PSR</a></strong>, além de aluno de mestrado da linha de otimização do <strong>PESC/COPPE</strong>.
+  Atualmente, além de aluno de mestrado da linha de otimização do <strong>PESC/COPPE</strong> estou em um estágio de pesquisa na Microsoft, em Cambridge, no Reino Unido.
 <p>
 
 <p>
@@ -25,6 +25,7 @@
   
 <p>
   Além disso, já estive em outras aventuras como quando desenvolvi sistemas para pesquisa em <Strong>Saúde Pública</strong> na <strong>FIOCRUZ</strong> <img src="./static/sus.svg" align="bottom"/>  ou também trabalhando com <strong>Design Generativo</strong> na <strong>FAU-UFRJ</strong>.
+  Anteriormente, trabalhei no setor elétrico como Pesquisador e Desenvolvedor na <strong><a href="https://www.psr-inc.com/">PSR</a></strong>.
 </p>
   
 </div>
@@ -39,7 +40,7 @@
   <p> 
     My name is Pedro, I'm from Brasil, and here you can find all my programming projects.
     I completed my B.Sc. studies in <strong>Computer and Information Engineering</strong> and <strong>Pure Mathematics</strong> as a <strong>double-major</strong> at <strong>UFRJ</strong>.
-    Currently a researcher and developer at <strong><a href="https://www.psr-inc.com/">PSR Energy</a></strong> and also a M.Sc. student at <strong>PESC/COPPE</strong> in optimization.
+    Currently a M.Sc. student at <strong>PESC/COPPE</strong> in optimization and Research Intern at Microsoft, in Cambridge, UK.
   <p>
 
   <p>
@@ -50,6 +51,7 @@
 
   <p>
     Apart from that, I've been into other adventures such as <strong>Public Health Care</strong> management systems at <strong>FIOCRUZ</strong> <img src="./static/sus.svg" align="bottom"/> and <strong>Generative Design</strong> in architecture at <strong>FAU-UFRJ</strong>.
+    Previously, worked in the Power Systems Industry as a Researcher and Developer at <strong><a href="https://www.psr-inc.com/">PSR Energy</a></strong>.
   </p>
 </div>
 
