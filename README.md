@@ -14,7 +14,7 @@
 <p> 
   Meu nome é Pedro, sou do Brasil, mais especificamente de Nova Friburgo - RJ, e aqui você pode encontrar meus alguns dos meus projetos de código.
   Concluí, na <strong>UFRJ</strong>, a graduação em <strong>Engenharia de Computação e Informação</strong> e também o <strong>Bacharelado em Matemática</strong>.
-  Atualmente, além de aluno de mestrado da linha de otimização do <strong>PESC/COPPE</strong> estou em um estágio de pesquisa na Microsoft, em Cambridge, no Reino Unido.
+  Atualmente, além de aluno de mestrado da linha de otimização do <strong>PESC/COPPE</strong> estou em um estágio de pesquisa na <strong><a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/">Microsoft</a></strong>, em Cambridge, no Reino Unido.
 <p>
 
 <p>
@@ -38,9 +38,9 @@
   <img src="./static/surface-waves.svg" min-width="350px" max-width="450px" width="400px" top= "0 px" align="left"/>
 
   <p> 
-    My name is Pedro, I'm from Brasil, and here you can find all my programming projects.
+    My name is Pedro, I'm from Brasil, and here you can find some of my programming projects.
     I completed my B.Sc. studies in <strong>Computer and Information Engineering</strong> and <strong>Pure Mathematics</strong> as a <strong>double-major</strong> at <strong>UFRJ</strong>.
-    Currently a M.Sc. student at <strong>PESC/COPPE</strong> in optimization and Research Intern at Microsoft, in Cambridge, UK.
+    Currently a M.Sc. student at <strong>PESC/COPPE</strong> in optimization and Research Intern at <strong><a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/">Microsoft</a></strong>, in Cambridge, UK.
   <p>
 
   <p>
